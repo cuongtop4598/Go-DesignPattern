@@ -12,7 +12,6 @@
         telescopic constructors), and it is difficult to remember the order of parameters
         for the clients. Some of these parameters might be optional. Such constructors
         frequently lead to bugs in client code.
-        
     1.1. Builder Facets.
     1.2. Builder Parameter.
     1.3. Functional Builder.
@@ -21,5 +20,4 @@
     2.2. Interface Factory.
     2.3. Prototye Factory.
 3. Prototype.
-   
 4. Singleton.
